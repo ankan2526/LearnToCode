@@ -1,0 +1,25 @@
+body {
+    background-image: url("/images/cool-background.png");
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 300%;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+div a {
+    border: 2px solid black;
+    margin: 1%;
+    padding: 0.5%;
+    font-size: 150%;
+    background-color: gold;
+}
